@@ -11,6 +11,7 @@ Now is Binary Tree
 | [101](101-Symmetric-Tree.swift)                    | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy       | Binary Tree |
 | [102](102-Binary-Tree-Level-Order-Traversal.swift) | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium     | Binary Tree |
 | [104](104-Maximum-Depth-of-Binary-Tree.swift)      | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy       | Binary Tree |
+| [112](112-Path-Sum.swift)                          | [Path Sum](https://leetcode.com/problems/path-sum/)          | Easy       | Binary Tree |
 | [144](144-Binary-Tree-Preorder-Traversal.swift)    | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Medium     | Binary Tree |
 | [145](145-Binary-Tree-Postorder-Traversal.swift)   | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Hard       | Binary Tree |
 
