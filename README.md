@@ -11,6 +11,7 @@ Now is Binary Tree
 | [101](101-Symmetric-Tree.swift)                              | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy       | Binary Tree |
 | [102](102-Binary-Tree-Level-Order-Traversal.swift)           | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium     | Binary Tree |
 | [104](104-Maximum-Depth-of-Binary-Tree.swift)                | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy       | Binary Tree |
+| [105](105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal.swift) | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium     | Binary Tree |
 | [106](106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal.swift) | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium     | Binary Tree |
 | [112](112-Path-Sum.swift)                                    | [Path Sum](https://leetcode.com/problems/path-sum/)          | Easy       | Binary Tree |
 | [144](144-Binary-Tree-Preorder-Traversal.swift)              | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Medium     | Binary Tree |
