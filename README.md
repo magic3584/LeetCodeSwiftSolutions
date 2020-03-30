@@ -7,5 +7,6 @@ Now is Binary Tree
 | ID (Hyperlink in this repo)                     | Finished Problems (Hyperlink in LeetCode)                    | Difficulty | Tag         |
 | ----------------------------------------------- | ------------------------------------------------------------ | ---------- | ----------- |
 | [1](1-two-sum.playground/Contents.swift)        | [Two Sum](https://leetcode.com/problems/two-sum/)            | Easy       | Array       |
+| [94](94-Binary-Tree-Inorder-Traversal.swift)    | [Binary-Tree-Inorder-Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Medium     | Binary Tree |
 | [144](144-Binary-Tree-Preorder-Traversal.swift) | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Medium     | Binary Tree |
 
