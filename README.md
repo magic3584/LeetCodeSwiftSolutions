@@ -18,4 +18,5 @@ Now is Binary Tree
 | [117](117-Populating-Next-Right-Pointers-in-Each-Node-II.swift) | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | Medium     | Binary Tree |
 | [144](144-Binary-Tree-Preorder-Traversal.swift)              | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Medium     | Binary Tree |
 | [145](145-Binary-Tree-Postorder-Traversal.swift)             | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Hard       | Binary Tree |
+| [236](236-Lowest-Common-Ancestor-of-a-Binary-Tree.swift)     | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium     | Binary Tree |
 
