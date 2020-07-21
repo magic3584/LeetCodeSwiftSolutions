@@ -9,7 +9,7 @@ Now is Binary Tree
 | [1](1-two-sum.playground/Contents.swift)                     | [Two Sum](https://leetcode.com/problems/two-sum/)            | Easy       | Array               |
 | [offer-22](offer-22-链表中倒数第k个节点.swift)               | N/A                                                          | Easy       | Linked List         |
 | [54](054-Spiral-Matrix.swift)                                | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium     | Array               |
-| [offer-59](offer-59-队列最大值.swift)                        | N/A                                                          | Medium     | Stack               |
+| [offer-59-2](offer-59-队列最大值.swift)                      | N/A                                                          | Medium     | Stack               |
 | [70](70-Climbing-Stairs.swift)                               | [70-Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy       | Dynamic Programming |
 | [94](094-Binary-Tree-Inorder-Traversal.swift)                | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Medium     | Binary Tree         |
 | [101](101-Symmetric-Tree.swift)                              | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy       | Binary Tree         |
