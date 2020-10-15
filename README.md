@@ -4,9 +4,10 @@ Solutions for Leet Code problems with swift 4.2 .
 
 Now is Binary Tree
 
-| ID (Hyperlink in this repo)                                  | Finished Problems (Hyperlink in LeetCode)                    | Difficulty | Tag                 |
+| ID (Hyperlink in this repo)                                  | Finished Problems (Hyperlink in LeetCode/LeetCode-cn)        | Difficulty | Tag                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ------------------- |
 | [1](1-two-sum.playground/Contents.swift)                     | [Two Sum](https://leetcode.com/problems/two-sum/)            | Easy       | Array               |
+| [offer-21](offer-21.swift)                                   | [调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) | Easy       | Array               |
 | [offer-22](offer-22-链表中倒数第k个节点.swift)               | N/A                                                          | Easy       | Linked List         |
 | [53](53-maximum-subarray.swift)                              | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy       | Array, DP           |
 | [54](054-Spiral-Matrix.swift)                                | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium     | Array               |
