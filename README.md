@@ -8,11 +8,11 @@ Now is Binary Tree
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ------------------- |
 | [1](1-two-sum.playground/Contents.swift)                     | [Two Sum](https://leetcode.com/problems/two-sum/)            | Easy       | Array               |
 | [offer-21](offer-21.swift)                                   | [调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) | Easy       | Array               |
-| [offer-22](offer-22-链表中倒数第k个节点.swift)               | [链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | Easy       | Linked List         |
+| [offer-22](offer-22-lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.swift) | [链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | Easy       | Linked List         |
 | [offer-50](offer-50-di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.swift) | [第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/) | Easy       | Hash                |
 | [53](53-maximum-subarray.swift)                              | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy       | Array, DP           |
 | [54](054-Spiral-Matrix.swift)                                | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium     | Array               |
-| [offer-59-2](offer-59-队列最大值.swift)                      | [队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | Medium     | Stack               |
+| [offer-59-2](offer-59-2-dui-lie-de-zui-da-zhi-lcof.swift)    | [队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | Medium     | Stack               |
 | [70](70-Climbing-Stairs.swift)                               | [70-Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy       | Dynamic Programming |
 | [94](094-Binary-Tree-Inorder-Traversal.swift)                | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Medium     | Binary Tree         |
 | [101](101-Symmetric-Tree.swift)                              | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy       | Binary Tree         |
