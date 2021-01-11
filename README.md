@@ -17,7 +17,8 @@ Now is Binary Tree
 | [53](53-maximum-subarray.swift)                              | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy       | Array, DP           |
 | [54](054-Spiral-Matrix.swift)                                | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium     | Array               |
 | [offer-59-2](offer-59-2-dui-lie-de-zui-da-zhi-lcof.swift)    | [队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | Medium     | Stack               |
-| [70](70-Climbing-Stairs.swift)                               | [70-Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy       | Dynamic Programming |
+| [70](70-Climbing-Stairs.swift)                               | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy       | Dynamic Programming |
+| [77](77-Combinations.swift)                                  | [Combinations](https://leetcode.com/problems/combinations/)  | Medium     | Backtracking        |
 | [94](094-Binary-Tree-Inorder-Traversal.swift)                | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Medium     | Binary Tree         |
 | [101](101-Symmetric-Tree.swift)                              | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy       | Binary Tree         |
 | [102](102-Binary-Tree-Level-Order-Traversal.swift)           | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium     | Binary Tree         |
