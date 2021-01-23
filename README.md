@@ -33,5 +33,6 @@ Now is Binary Tree
 | [121](121-best-time-to-buy-and-sell-stock.swift)             | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy       | Array, DP           |
 | [144](144-Binary-Tree-Preorder-Traversal.swift)              | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Medium     | Binary Tree         |
 | [145](145-Binary-Tree-Postorder-Traversal.swift)             | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Hard       | Binary Tree         |
+| [216](216-Combination-Sum-III.swift)                         | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Medium     | Backtracking        |
 | [236](236-Lowest-Common-Ancestor-of-a-Binary-Tree.swift)     | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium     | Binary Tree         |
 
