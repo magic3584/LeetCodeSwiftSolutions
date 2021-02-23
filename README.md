@@ -8,6 +8,7 @@ Now is Binary Tree
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ------------------- |
 | [1](1-two-sum.playground/Contents.swift)                     | [Two Sum](https://leetcode.com/problems/two-sum/)            | Easy       | Array               |
 | [17](17-letter-combinations-of-a-phone-number.swift)         | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium     | Backtracking        |
+| [22](22-Generate-Parentheses.swift)                          | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium     | Backtracking, DFS   |
 | [39](39-combination-sum.swift)                               | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium     | Backtracking        |
 | [40](40-combination-sum-ii.swift)                            | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium     | Backtracking        |
 | [46](46-Permutations.swift)                                  | [Permutations](https://leetcode.com/problems/permutations/)  | Medium     | Backtracking        |
