@@ -13,8 +13,11 @@ Now is Binary Tree
 | [40](40-combination-sum-ii.swift)                            | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium     | Backtracking        |
 | [46](46-Permutations.swift)                                  | [Permutations](https://leetcode.com/problems/permutations/)  | Medium     | Backtracking        |
 | [47](47-Permutations-II.swift)                               | [Permutations II](https://leetcode.com/problems/permutations-ii/) | Medium     | Backtracking        |
+| [offer-06](offer-06-cong-wei-dao-tou-da-yin-lian-biao-lcof.swift) | [从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) | Easy       | Stack               |
+| [offer-09](offer-09-yong-liang-ge-zhan-shi-xian-dui-lie-lcof.swift) | [用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | Easy       | Stack               |
 | [offer-21](offer-21.swift)                                   | [调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) | Easy       | Array               |
 | [offer-22](offer-22-lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.swift) | [链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | Easy       | Linked List         |
+| [offer-30](offer-30-bao-han-minhan-shu-de-zhan-lcof.swift)   | [包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/) | Easy       | Stack               |
 | [offer-47](offer-47-li-wu-de-zui-da-jie-zhi-lcof.swift)      | [礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/) | Medium     | DP                  |
 | [offer-50](offer-50-di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.swift) | [第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/) | Easy       | Hash                |
 | [53](53-maximum-subarray.swift)                              | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy       | Array, DP           |
